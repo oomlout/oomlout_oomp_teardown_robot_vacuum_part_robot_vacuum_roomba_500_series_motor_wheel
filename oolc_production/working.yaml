@@ -1,0 +1,7 @@
+project_id: oomlout_oomp_teardown_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel
+project_name: Oomlout Oomp Teardown Robot Vacuum Part Robot Vacuum Roomba 500 Series
+  Motor Wheel
+project_repo: https://github.com/oomlout/oomlout_oomp_teardown_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
